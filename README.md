@@ -1,7 +1,7 @@
 # Image Based Path Finder
 It is a hybrid mobile application which finds the path with the help of Google maps by taking an images of location as an input and display the route from source to destination in the application itself.
 
-##What are the Objectives of this project ?
+## What are the Objectives of this project ?
 
 * The main function of application is finding routes from source place to destination place by matching images.
 * To identify the Source image and Destination image with the image stored in the database with its latitude and
