@@ -1,0 +1,63 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back2"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".MenuActivity" >
+
+    <Button
+        android:id="@+id/Menubutton1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/bg_button_rounded"
+        android:text="My Location"
+        android:padding="17dp"
+        android:alpha="0.98"
+        android:textColor="#ffffff" />
+
+    <Button
+        android:id="@+id/Menubutton3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/Menubutton1"
+        android:layout_below="@+id/Menubutton1"
+        android:layout_marginTop="16dp"
+        android:padding="17dp"
+        android:background="@drawable/bg_button_rounded"
+        android:text="Current location To Destination"
+        android:alpha="0.98"
+        android:textColor="#ffffff" />
+
+    <Button
+        android:id="@+id/Menubutton4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/Menubutton3"
+        android:layout_below="@+id/Menubutton3"
+        android:layout_marginTop="20dp"
+        android:padding="17dp"
+        android:background="@drawable/bg_button_rounded"
+        android:text="Source To Destination"
+        android:alpha="0.98"
+        android:textColor="#ffffff" />
+
+    <Button
+        android:id="@+id/Menubutton2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/Menubutton4"
+        android:layout_below="@+id/Menubutton4"
+        android:layout_marginTop="20dp"
+        android:padding="17dp"
+        android:background="@drawable/bg_button_rounded"
+        android:text="Exit"
+        android:alpha="0.98"
+        android:textColor="#ffffff" />
+
+</RelativeLayout>

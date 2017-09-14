@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ImageBased Path Finder</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_reg">RegActivity</string>
+    <string name="title_activity_main_property">My Location</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="action_Logout">Logout</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="title_activity_photo_filter">Upload Photo</string>
+    <string name="title_activity_fileupload">Current to destination location</string>
+    <string name="title_activity_fileuploadsd">Source to destination location</string>
+	<string name="action_cpfu1">Capture Screen</string>
+</resources>

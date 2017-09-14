@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Mandar-PC\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\Mandar-PC\StudioProjects\ImageBasedPath Finder1(new)\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_1b908040439757eb8eaa6a9dadfa18599e852867.jar" />
+    </item>
+
+</items>

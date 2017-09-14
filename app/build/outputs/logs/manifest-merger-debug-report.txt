@@ -1,0 +1,141 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml:2:1-69:12
+	package
+		ADDED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml
+		INJECTED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml
+		INJECTED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml
+		INJECTED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml
+		INJECTED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml
+		INJECTED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml:12:5-76
+	android:name
+		ADDED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml:12:22-73
+application
+ADDED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml:14:5-52:19
+	android:label
+		ADDED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml:17:9-41
+	android:allowBackup
+		ADDED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml:15:9-35
+	android:icon
+		ADDED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml:16:9-43
+	android:theme
+		ADDED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml:18:9-40
+activity#com.example.myproperty.MainActivity
+ADDED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml:19:9-27:20
+	android:label
+		ADDED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml:21:13-45
+	android:name
+		ADDED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml:20:13-63
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml:25:27-74
+activity#com.example.myproperty.RegActivity
+ADDED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml:28:9-31:20
+	android:label
+		ADDED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml:30:13-55
+	android:name
+		ADDED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml:29:13-62
+activity#com.example.myproperty.GPSActivity
+ADDED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml:32:9-35:20
+	android:label
+		ADDED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml:34:13-65
+	android:name
+		ADDED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml:33:13-62
+activity#com.example.myproperty.LoginActivity
+ADDED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml:36:9-39:20
+	android:label
+		ADDED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml:38:13-57
+	android:name
+		ADDED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml:37:13-64
+activity#com.example.myproperty.MenuActivity
+ADDED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml:40:9-43:20
+	android:label
+		ADDED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml:42:13-56
+	android:name
+		ADDED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml:41:13-63
+activity#com.example.myproperty.Fileupload
+ADDED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml:44:9-47:20
+	android:label
+		ADDED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml:46:13-62
+	android:name
+		ADDED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml:45:13-61
+activity#com.example.myproperty.Fileuploadsd
+ADDED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml:48:9-51:20
+	android:label
+		ADDED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml:50:13-64
+	android:name
+		ADDED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml:49:13-63
+uses-permission#android.permission.INTERNET
+ADDED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml:54:5-55:23
+	android:name
+		ADDED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml:54:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml:56:5-79
+	android:name
+		ADDED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml:56:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml:57:5-75
+	android:name
+		ADDED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml:57:22-72
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml:58:5-79
+	android:name
+		ADDED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml:58:22-76
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml:59:5-71
+	android:name
+		ADDED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml:59:22-68
+uses-permission#android.permission.CAMERA
+ADDED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml:60:5-65
+	android:name
+		ADDED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml:60:22-62
+uses-feature#android.hardware.camera
+ADDED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml:62:5-60
+	android:name
+		ADDED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml:62:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml:63:5-70
+	android:name
+		ADDED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml:63:19-67
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml:65:5-81
+	android:name
+		ADDED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml:65:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml:66:5-80
+	android:name
+		ADDED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml:66:22-77
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml:67:5-68
+	android:name
+		ADDED from D:\new  from desktop\Project report\Copy\ImageBasedPath Finder1(new)\app\src\main\AndroidManifest.xml:67:22-65
