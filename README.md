@@ -20,14 +20,14 @@ For implementing Hybrid application in order to fetch the content of the webview
 
  In the **UploadToserver.php** and **UploadToserversd.php** file change I.P address with respect to your network congfiguration
 
- ``if($lat1>=1.0 and $log1>=1.0)
+ >``if($lat1>=1.0 and $log1>=1.0)
   {
 	echo "<script> location.href=\"http://192.168.43.2/ImageMap/MyTracklocation.php?LAT=$lat&LOG=$log&LAT1=$lat1&LOG1=$log1\";</script>";
   }``
 
 In Android Application **Fileupload.java**, **Fileuploadsd.java** and **GPSActivity.java** change I.P address with respect to your network congfiguration
 
-``try
+>``try
  {	   
 	Lat = URLEncoder.encode(Lat, "UTF-8");
 	Log = URLEncoder.encode(Log, "UTF-8");			
