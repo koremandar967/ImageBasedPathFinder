@@ -9,7 +9,6 @@ It is a hybrid mobile application which finds the path with the help of Google m
 * Mapping of possible routes to the destination with the help of Google API.
 
 ## Used Algorithms
-------------------------
 
 * Perceptual Hash Algorithm.
 * Edge Detection Algorithm.
