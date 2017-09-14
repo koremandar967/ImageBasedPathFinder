@@ -9,11 +9,13 @@ It is a hybrid mobile application which finds the path with the help of Google m
 * Mapping of possible routes to the destination with the help of Google API.
 
 ##Used Algorithms
+------------------------
 
 * Perceptual Hash Algorithm.
 * Edge Detection Algorithm.
 
 ###Implementing this application
+----------------------------------
 
 For implementing Hybrid application in order to fetch the content of the webview of android application web files and android application should be connected in same network i.e. same I.P. Before implementing this application IP address should be changed in several files and also java files of android application.
 
