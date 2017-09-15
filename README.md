@@ -18,7 +18,7 @@ It is a hybrid mobile application which finds the path with the help of Google m
 
 For implementing Hybrid application in order to fetch the content of the webview of android application web files and android application should be connected in same network i.e. same I.P. Before implementing this application IP address should be changed in several files and also java files of android application.
 
- In the **UploadToserver.php** and **UploadToserversd.php** file change I.P address with respect to your network congfiguration
+ In the **UploadToserver.php** and **UploadToserversd.php** file change I.P address with respect to your network configuration
 
  ```if($lat1>=1.0 and $log1>=1.0)
   {
@@ -26,7 +26,7 @@ For implementing Hybrid application in order to fetch the content of the webview
   }
   ```
 
-In Android Application **Fileupload.java**, **Fileuploadsd.java** and **GPSActivity.java** change I.P address with respect to your network congfiguration
+In Android Application **Fileupload.java**, **Fileuploadsd.java** and **GPSActivity.java** change I.P address with respect to your network configuration
 
 ```try
  {	   
@@ -37,6 +37,5 @@ In Android Application **Fileupload.java**, **Fileuploadsd.java** and **GPSActiv
  catch(Exception w){}
  ```
 
- > When android application and admin are connected in same network then in android application current location
-   latitude and longitude is displayed as a toast.
+ > When android application and admin are connected in same network then in android application latitude and longitude of current location is displayed as a toast.
     
