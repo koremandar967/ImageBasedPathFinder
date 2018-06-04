@@ -37,5 +37,5 @@ In Android Application **Fileupload.java**, **Fileuploadsd.java** and **GPSActiv
  catch(Exception w){}
  ```
 
- > When android application and admin are connected in same network then in android application latitude and longitude of current location is displayed as a toast.
+ > When android application and admin are connected in same network then in android application latitude and longitude of current location is displayed as a toast notification.
     
